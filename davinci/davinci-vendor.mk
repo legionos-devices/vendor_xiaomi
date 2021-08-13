@@ -115,6 +115,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/davinci/proprietary/vendor/firmware/a615_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a615_zap.elf \
     vendor/xiaomi/davinci/proprietary/vendor/firmware/a615_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a615_zap.mdt \
     vendor/xiaomi/davinci/proprietary/vendor/firmware/a618_gmu.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/a618_gmu.bin \
+    vendor/xiaomi/davinci/proprietary/vendor/firmware/a630_gmu.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/a630_gmu.bin \
     vendor/xiaomi/davinci/proprietary/vendor/firmware/a630_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a630_sqe.fw \
     vendor/xiaomi/davinci/proprietary/vendor/firmware/goodix_gt9886_limit_f10_first.tporder:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_gt9886_limit_f10_first.tporder \
     vendor/xiaomi/davinci/proprietary/vendor/firmware/goodix_gt9886_limit_f10_second.tporder:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_gt9886_limit_f10_second.tporder \
