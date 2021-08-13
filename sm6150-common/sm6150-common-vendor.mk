@@ -546,6 +546,8 @@ PRODUCT_PACKAGES += \
     SoterService \
     CACertService \
     CneApp \
+    com.qualcomm.qti.gpudrivers.sm6150.api30 \
+    com.qualcomm.qti.improvetouch.service \
     IWlanService \
     TimeService \
     PowerOffAlarm \
